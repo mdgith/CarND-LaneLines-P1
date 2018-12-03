@@ -1,10 +1,10 @@
-**SOLUTION**
+# SOLUTION
 
 The submission consists of the notebook, P1.ipynb, and writeup.md that describes the work
 In addition, the processed files are available in test_images_output and test_videos_output folders
 Alternately, the P1.ipynb can be run to obtain the output images as well
 
-**PROJECT**
+# PROJECT
 
 # **Finding Lane Lines on the Road** 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
